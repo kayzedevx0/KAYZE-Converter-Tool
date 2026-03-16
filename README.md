@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Sostituisci banner.png con il nome esatto della tua immagine se diverso -->
-![KAYZE Converter Tool Banner](banner.svg)
+![KAYZE Converter Tool Banner](KAYZE%20Converter%20Tool/ConverterTool/banner.svg)
 
 # 🚀 A BRAND NEW TOOL FROM KAYZE 🚀
 ## KAYZE Converter Tool
