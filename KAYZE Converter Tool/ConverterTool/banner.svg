@@ -22,8 +22,8 @@
   
   <text x="50%" y="80%" dominant-baseline="middle" text-anchor="middle" 
         font-family="Arial, sans-serif" font-size="22" 
-        fill="#aaaaaa" letter-spacing="8">
-    DISCORD QUEST COMPLETER
+        fill="#aaaaaa" letter-spacing="12">
+    CONVERTER TOOL
   </text>
   
   <rect x="50" y="90" width="10" height="20" fill="#2a2a2a" />
