@@ -1,0 +1,38 @@
+C:\Users\trypk\Desktop\AND\PROGRAMMING\KAYZE Converter Tool\ConverterTool\bin\Release\net10.0-windows\KAYZE Converter Tool.exe
+C:\Users\trypk\Desktop\AND\PROGRAMMING\KAYZE Converter Tool\ConverterTool\bin\Release\net10.0-windows\KAYZE Converter Tool.dll.config
+C:\Users\trypk\Desktop\AND\PROGRAMMING\KAYZE Converter Tool\ConverterTool\bin\Release\net10.0-windows\KAYZE Converter Tool.deps.json
+C:\Users\trypk\Desktop\AND\PROGRAMMING\KAYZE Converter Tool\ConverterTool\bin\Release\net10.0-windows\KAYZE Converter Tool.runtimeconfig.json
+C:\Users\trypk\Desktop\AND\PROGRAMMING\KAYZE Converter Tool\ConverterTool\bin\Release\net10.0-windows\KAYZE Converter Tool.dll
+C:\Users\trypk\Desktop\AND\PROGRAMMING\KAYZE Converter Tool\ConverterTool\bin\Release\net10.0-windows\KAYZE Converter Tool.pdb
+C:\Users\trypk\Desktop\AND\PROGRAMMING\KAYZE Converter Tool\ConverterTool\bin\Release\net10.0-windows\HarfBuzzSharp.dll
+C:\Users\trypk\Desktop\AND\PROGRAMMING\KAYZE Converter Tool\ConverterTool\bin\Release\net10.0-windows\Magick.NET-Q16-AnyCPU.dll
+C:\Users\trypk\Desktop\AND\PROGRAMMING\KAYZE Converter Tool\ConverterTool\bin\Release\net10.0-windows\Magick.NET.Core.dll
+C:\Users\trypk\Desktop\AND\PROGRAMMING\KAYZE Converter Tool\ConverterTool\bin\Release\net10.0-windows\Spire.Doc.dll
+C:\Users\trypk\Desktop\AND\PROGRAMMING\KAYZE Converter Tool\ConverterTool\bin\Release\net10.0-windows\Xabe.FFmpeg.dll
+C:\Users\trypk\Desktop\AND\PROGRAMMING\KAYZE Converter Tool\ConverterTool\bin\Release\net10.0-windows\Xabe.FFmpeg.Downloader.dll
+C:\Users\trypk\Desktop\AND\PROGRAMMING\KAYZE Converter Tool\ConverterTool\bin\Release\net10.0-windows\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\trypk\Desktop\AND\PROGRAMMING\KAYZE Converter Tool\ConverterTool\bin\Release\net10.0-windows\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\trypk\Desktop\AND\PROGRAMMING\KAYZE Converter Tool\ConverterTool\bin\Release\net10.0-windows\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\trypk\Desktop\AND\PROGRAMMING\KAYZE Converter Tool\ConverterTool\bin\Release\net10.0-windows\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\trypk\Desktop\AND\PROGRAMMING\KAYZE Converter Tool\ConverterTool\bin\Release\net10.0-windows\runtimes\linux-arm64\native\Magick.Native-Q16-arm64.dll.so
+C:\Users\trypk\Desktop\AND\PROGRAMMING\KAYZE Converter Tool\ConverterTool\bin\Release\net10.0-windows\runtimes\linux-musl-x64\native\Magick.Native-Q16-x64.dll.so
+C:\Users\trypk\Desktop\AND\PROGRAMMING\KAYZE Converter Tool\ConverterTool\bin\Release\net10.0-windows\runtimes\linux-x64\native\Magick.Native-Q16-x64.dll.so
+C:\Users\trypk\Desktop\AND\PROGRAMMING\KAYZE Converter Tool\ConverterTool\bin\Release\net10.0-windows\runtimes\osx-arm64\native\Magick.Native-Q16-arm64.dll.dylib
+C:\Users\trypk\Desktop\AND\PROGRAMMING\KAYZE Converter Tool\ConverterTool\bin\Release\net10.0-windows\runtimes\osx-x64\native\Magick.Native-Q16-x64.dll.dylib
+C:\Users\trypk\Desktop\AND\PROGRAMMING\KAYZE Converter Tool\ConverterTool\bin\Release\net10.0-windows\runtimes\win-arm64\native\Magick.Native-Q16-arm64.dll
+C:\Users\trypk\Desktop\AND\PROGRAMMING\KAYZE Converter Tool\ConverterTool\bin\Release\net10.0-windows\runtimes\win-x64\native\Magick.Native-Q16-x64.dll
+C:\Users\trypk\Desktop\AND\PROGRAMMING\KAYZE Converter Tool\ConverterTool\bin\Release\net10.0-windows\runtimes\win-x86\native\Magick.Native-Q16-x86.dll
+C:\Users\trypk\Desktop\AND\PROGRAMMING\KAYZE Converter Tool\ConverterTool\obj\Release\net10.0-windows\KAYZE Converter Tool.csproj.AssemblyReference.cache
+C:\Users\trypk\Desktop\AND\PROGRAMMING\KAYZE Converter Tool\ConverterTool\obj\Release\net10.0-windows\KAYZEConverterTool.Form1.resources
+C:\Users\trypk\Desktop\AND\PROGRAMMING\KAYZE Converter Tool\ConverterTool\obj\Release\net10.0-windows\KAYZE_Converter_Tool.Properties.Resources.resources
+C:\Users\trypk\Desktop\AND\PROGRAMMING\KAYZE Converter Tool\ConverterTool\obj\Release\net10.0-windows\KAYZE Converter Tool.csproj.GenerateResource.cache
+C:\Users\trypk\Desktop\AND\PROGRAMMING\KAYZE Converter Tool\ConverterTool\obj\Release\net10.0-windows\KAYZE Converter Tool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trypk\Desktop\AND\PROGRAMMING\KAYZE Converter Tool\ConverterTool\obj\Release\net10.0-windows\KAYZE Converter Tool.AssemblyInfoInputs.cache
+C:\Users\trypk\Desktop\AND\PROGRAMMING\KAYZE Converter Tool\ConverterTool\obj\Release\net10.0-windows\KAYZE Converter Tool.AssemblyInfo.cs
+C:\Users\trypk\Desktop\AND\PROGRAMMING\KAYZE Converter Tool\ConverterTool\obj\Release\net10.0-windows\KAYZE Converter Tool.csproj.CoreCompileInputs.cache
+C:\Users\trypk\Desktop\AND\PROGRAMMING\KAYZE Converter Tool\ConverterTool\obj\Release\net10.0-windows\KAYZE Co.BCC28BEB.Up2Date
+C:\Users\trypk\Desktop\AND\PROGRAMMING\KAYZE Converter Tool\ConverterTool\obj\Release\net10.0-windows\KAYZE Converter Tool.dll
+C:\Users\trypk\Desktop\AND\PROGRAMMING\KAYZE Converter Tool\ConverterTool\obj\Release\net10.0-windows\refint\KAYZE Converter Tool.dll
+C:\Users\trypk\Desktop\AND\PROGRAMMING\KAYZE Converter Tool\ConverterTool\obj\Release\net10.0-windows\KAYZE Converter Tool.pdb
+C:\Users\trypk\Desktop\AND\PROGRAMMING\KAYZE Converter Tool\ConverterTool\obj\Release\net10.0-windows\KAYZE Converter Tool.genruntimeconfig.cache
+C:\Users\trypk\Desktop\AND\PROGRAMMING\KAYZE Converter Tool\ConverterTool\obj\Release\net10.0-windows\ref\KAYZE Converter Tool.dll

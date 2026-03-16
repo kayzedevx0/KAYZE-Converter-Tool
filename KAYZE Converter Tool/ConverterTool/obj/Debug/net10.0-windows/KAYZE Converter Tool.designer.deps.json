@@ -1,0 +1,200 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "HarfBuzzSharp/8.3.0.1": {
+        "dependencies": {
+          "HarfBuzzSharp.NativeAssets.Win32": "8.3.0.1",
+          "HarfBuzzSharp.NativeAssets.macOS": "8.3.0.1"
+        },
+        "runtime": {
+          "lib/net8.0/HarfBuzzSharp.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "8.3.0.1"
+          }
+        }
+      },
+      "HarfBuzzSharp.NativeAssets.macOS/8.3.0.1": {
+        "runtimeTargets": {
+          "runtimes/osx/native/libHarfBuzzSharp.dylib": {
+            "rid": "osx",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "HarfBuzzSharp.NativeAssets.Win32/8.3.0.1": {
+        "runtimeTargets": {
+          "runtimes/win-arm64/native/libHarfBuzzSharp.dll": {
+            "rid": "win-arm64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x64/native/libHarfBuzzSharp.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x86/native/libHarfBuzzSharp.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "Magick.NET-Q16-AnyCPU/14.10.4": {
+        "dependencies": {
+          "Magick.NET.Core": "14.10.4"
+        },
+        "runtime": {
+          "lib/net8.0/Magick.NET-Q16-AnyCPU.dll": {
+            "assemblyVersion": "14.10.0.0",
+            "fileVersion": "14.10.4.0"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/linux-arm64/native/Magick.Native-Q16-arm64.dll.so": {
+            "rid": "linux-arm64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux-musl-x64/native/Magick.Native-Q16-x64.dll.so": {
+            "rid": "linux-musl-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux-x64/native/Magick.Native-Q16-x64.dll.so": {
+            "rid": "linux-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/osx-arm64/native/Magick.Native-Q16-arm64.dll.dylib": {
+            "rid": "osx-arm64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/osx-x64/native/Magick.Native-Q16-x64.dll.dylib": {
+            "rid": "osx-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-arm64/native/Magick.Native-Q16-arm64.dll": {
+            "rid": "win-arm64",
+            "assetType": "native",
+            "fileVersion": "10.2.0.0"
+          },
+          "runtimes/win-x64/native/Magick.Native-Q16-x64.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "10.2.0.0"
+          },
+          "runtimes/win-x86/native/Magick.Native-Q16-x86.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "10.2.0.0"
+          }
+        }
+      },
+      "Magick.NET.Core/14.10.4": {
+        "runtime": {
+          "lib/net8.0/Magick.NET.Core.dll": {
+            "assemblyVersion": "14.10.0.0",
+            "fileVersion": "14.10.4.0"
+          }
+        }
+      },
+      "Spire.Doc/14.3.0": {
+        "dependencies": {
+          "HarfBuzzSharp": "8.3.0.1"
+        },
+        "runtime": {
+          "lib/net10.0/Spire.Doc.dll": {
+            "assemblyVersion": "14.3.2.0",
+            "fileVersion": "14.3.2.33100"
+          }
+        }
+      },
+      "Xabe.FFmpeg/6.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Xabe.FFmpeg.dll": {
+            "assemblyVersion": "6.0.2.0",
+            "fileVersion": "6.0.2.0"
+          }
+        }
+      },
+      "Xabe.FFmpeg.Downloader/6.0.2": {
+        "dependencies": {
+          "Xabe.FFmpeg": "6.0.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Xabe.FFmpeg.Downloader.dll": {
+            "assemblyVersion": "6.0.2.0",
+            "fileVersion": "6.0.2.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HarfBuzzSharp/8.3.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rwLpl+W6uqu0DuvzqNhTMuFcXfy1Vc0uq0YXgPEmtTSfeUSAye1FcARrm2YIPOSiCBwBOGu3cLvMX5Fp6OKe2g==",
+      "path": "harfbuzzsharp/8.3.0.1",
+      "hashPath": "harfbuzzsharp.8.3.0.1.nupkg.sha512"
+    },
+    "HarfBuzzSharp.NativeAssets.macOS/8.3.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2o6U05LAmK+rwX7TvmJ2X0anXJG2hSE7kHVmCshhHy0tKfByJ5ykBacvhmmooHchlOwq15KBZeROGafCT8nN+g==",
+      "path": "harfbuzzsharp.nativeassets.macos/8.3.0.1",
+      "hashPath": "harfbuzzsharp.nativeassets.macos.8.3.0.1.nupkg.sha512"
+    },
+    "HarfBuzzSharp.NativeAssets.Win32/8.3.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ow0DtGEUjo65qhiI22of7qiVbN1xDFsZ5P5xJljRmGZ5WSxNy+1batLNJFGxahqhB1MTHYV8kAXf0GqC8WaevQ==",
+      "path": "harfbuzzsharp.nativeassets.win32/8.3.0.1",
+      "hashPath": "harfbuzzsharp.nativeassets.win32.8.3.0.1.nupkg.sha512"
+    },
+    "Magick.NET-Q16-AnyCPU/14.10.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7mUlRYYP4lsJk7UjtMZinjBewgl47SK8xRdZG2ObK2KhwFpgM55N6urPcaLOB12qWBdhkqu1nGwP+EBQuzj01Q==",
+      "path": "magick.net-q16-anycpu/14.10.4",
+      "hashPath": "magick.net-q16-anycpu.14.10.4.nupkg.sha512"
+    },
+    "Magick.NET.Core/14.10.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2OvmKkpHoe3f8LlhngRSrRb2f4uB2AAc5MNT0aDW97SMdpkpWYnKG1zaeCaU0dmBp4FaZ0/FawhcalaOOlgbng==",
+      "path": "magick.net.core/14.10.4",
+      "hashPath": "magick.net.core.14.10.4.nupkg.sha512"
+    },
+    "Spire.Doc/14.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-J0pHZsK8YYtMySnlH1Ati0l4Q4PgRAbunMbKcKQ5O7z8ajBxO8rehdh7PVRvVZuWSfcv9ANcpC0Et3vFLyzJrw==",
+      "path": "spire.doc/14.3.0",
+      "hashPath": "spire.doc.14.3.0.nupkg.sha512"
+    },
+    "Xabe.FFmpeg/6.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-82rhJD6NRXJ71g+Spk3gLINUmoNK3AGmUDCIUSOqR7wW1Z1JHMpkg3RTxeg4Hw7cEaQvuBePCrz4CvPQeNzjLA==",
+      "path": "xabe.ffmpeg/6.0.2",
+      "hashPath": "xabe.ffmpeg.6.0.2.nupkg.sha512"
+    },
+    "Xabe.FFmpeg.Downloader/6.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-UIvlf8airHkU4jxmF2jG0wsRXGnXrKn9C+iGC7Mm7PlLmYrXDcWEdCTO6h49A2zPKepSYkWwcSfyptHlfo+v8g==",
+      "path": "xabe.ffmpeg.downloader/6.0.2",
+      "hashPath": "xabe.ffmpeg.downloader.6.0.2.nupkg.sha512"
+    }
+  }
+}
