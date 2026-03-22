@@ -81,6 +81,13 @@ namespace KAYZEConverterTool
             InitializeComponent();
             this.Text = "KAYZE Converter Tool";
 
+            this.AutoScaleMode = AutoScaleMode.None;
+
+            this.MinimumSize = new Size(680, 550);
+            this.MaximumSize = new Size(680, 550);
+            this.Size = new Size(680, 550);
+            this.ClientSize = new Size(680, 550);
+
             kayzeToolTip = new ToolTip();
             kayzeToolTip.InitialDelay = 500; 
             kayzeToolTip.ReshowDelay = 500;
@@ -191,7 +198,7 @@ namespace KAYZEConverterTool
             topBar.Controls.Add(btnClose);
             topBar.Controls.Add(btnMin);
 
-            Label lblVersion = new Label { Text = "1.1.0 Stable   |", ForeColor = textGray, Font = new Font("Segoe UI", 9, FontStyle.Bold), AutoSize = true, Top = 12, Left = 15 };
+            Label lblVersion = new Label { Text = "1.1.1 Stable   |", ForeColor = textGray, Font = new Font("Segoe UI", 9, FontStyle.Bold), AutoSize = true, Top = 12, Left = 15 };
             topBar.Controls.Add(lblVersion);
 
             Label lblGithub = new Label { Text = "GITHUB", ForeColor = Color.White, BackColor = darkPanel, Font = new Font("Segoe UI", 8, FontStyle.Bold), Height = 22, Width = 75, TextAlign = ContentAlignment.MiddleCenter, Cursor = Cursors.Hand };
@@ -435,7 +442,7 @@ namespace KAYZEConverterTool
                 if (kayze != null && sub != null)
                 {
                     kayze.Left = (this.ClientSize.Width - kayze.Width) / 2;
-                    kayze.Top = 120;
+                    kayze.Top = 70;
                     sub.Left = (this.ClientSize.Width - sub.Width) / 2;
                     sub.Top = kayze.Bottom - 5;
                 }
